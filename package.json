@@ -1,0 +1,19 @@
+{
+  "name": "dreamaholics",
+  "version": "0.0.1",
+  "description": "The next-generation publishing system for dreamaholic.club",
+  "main": "app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invisiblearts/dreamaholics.git"
+  },
+  "author": "Invisible Arts",
+  "license": "NCSA",
+  "bugs": {
+    "url": "https://github.com/invisiblearts/dreamaholics/issues"
+  },
+  "homepage": "https://github.com/invisiblearts/dreamaholics#readme"
+}
